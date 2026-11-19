@@ -1,0 +1,100 @@
+id,node_id,name,description,url,html_url
+2474719,MDEwOlJlcG9zaXRvcnkyNDc0NzE5,getpython3.com,getpython3.com page and resources.,https://api.github.com/repos/python/getpython3.com,https://github.com/python/getpython3.com
+3698918,MDEwOlJlcG9zaXRvcnkzNjk4OTE4,community-starter-kit,Collection of resources for Python community organizers,https://api.github.com/repos/python/community-starter-kit,https://github.com/python/community-starter-kit
+4241382,MDEwOlJlcG9zaXRvcnk0MjQxMzgy,psf-docs,PSF Docs,https://api.github.com/repos/python/psf-docs,https://github.com/python/psf-docs
+4299040,MDEwOlJlcG9zaXRvcnk0Mjk5MDQw,historic-python-materials,Contains some old pages from python.org,https://api.github.com/repos/python/historic-python-materials,https://github.com/python/historic-python-materials
+4389262,MDEwOlJlcG9zaXRvcnk0Mzg5MjYy,psf-chef,Chef configuration and cookbooks for the Python Software Foundation,https://api.github.com/repos/python/psf-chef,https://github.com/python/psf-chef
+5630360,MDEwOlJlcG9zaXRvcnk1NjMwMzYw,psfoutreach,PSF Outreach website,https://api.github.com/repos/python/psfoutreach,https://github.com/python/psfoutreach
+6127047,MDEwOlJlcG9zaXRvcnk2MTI3MDQ3,pythondotorg,Source code for python.org,https://api.github.com/repos/python/pythondotorg,https://github.com/python/pythondotorg
+7053637,MDEwOlJlcG9zaXRvcnk3MDUzNjM3,mypy,Optional static typing for Python,https://api.github.com/repos/python/mypy,https://github.com/python/mypy
+7567351,MDEwOlJlcG9zaXRvcnk3NTY3MzUx,raspberryio,Source code for raspberry.io,https://api.github.com/repos/python/raspberryio,https://github.com/python/raspberryio
+8930173,MDEwOlJlcG9zaXRvcnk4OTMwMTcz,pycon-code-of-conduct,pycon code of conduct,https://api.github.com/repos/python/pycon-code-of-conduct,https://github.com/python/pycon-code-of-conduct
+13414105,MDEwOlJlcG9zaXRvcnkxMzQxNDEwNQ==,peps,Python Enhancement Proposals,https://api.github.com/repos/python/peps,https://github.com/python/peps
+23242304,MDEwOlJlcG9zaXRvcnkyMzI0MjMwNA==,psf-salt,PSF infrastructure configuration,https://api.github.com/repos/python/psf-salt,https://github.com/python/psf-salt
+23553472,MDEwOlJlcG9zaXRvcnkyMzU1MzQ3Mg==,docsbuild-scripts,Scripts for building the documentation on docs.python.org,https://api.github.com/repos/python/docsbuild-scripts,https://github.com/python/docsbuild-scripts
+24216135,MDEwOlJlcG9zaXRvcnkyNDIxNjEzNQ==,planet,Configuration for Python planets,https://api.github.com/repos/python/planet,https://github.com/python/planet
+24604008,MDEwOlJlcG9zaXRvcnkyNDYwNDAwOA==,typing,Python static typing home. Hosts the documentation and a user help forum.,https://api.github.com/repos/python/typing,https://github.com/python/typing
+28198936,MDEwOlJlcG9zaXRvcnkyODE5ODkzNg==,speed.python.org,,https://api.github.com/repos/python/speed.python.org,https://github.com/python/speed.python.org
+31696383,MDEwOlJlcG9zaXRvcnkzMTY5NjM4Mw==,typeshed,"Collection of library stubs for Python, with static types",https://api.github.com/repos/python/typeshed,https://github.com/python/typeshed
+33739295,MDEwOlJlcG9zaXRvcnkzMzczOTI5NQ==,asyncio,asyncio historical repository,https://api.github.com/repos/python/asyncio,https://github.com/python/asyncio
+40912239,MDEwOlJlcG9zaXRvcnk0MDkxMjIzOQ==,buildbot,Fork of BuildBot formerly running on buildbot.python.org,https://api.github.com/repos/python/buildbot,https://github.com/python/buildbot
+43700638,MDEwOlJlcG9zaXRvcnk0MzcwMDYzOA==,psf-packages,Packages for the PSF infrastructure,https://api.github.com/repos/python/psf-packages,https://github.com/python/psf-packages
+51875828,MDEwOlJlcG9zaXRvcnk1MTg3NTgyOA==,typed_ast,Modified fork of CPython's ast module that parses `# type:` comments,https://api.github.com/repos/python/typed_ast,https://github.com/python/typed_ast
+54906742,MDEwOlJlcG9zaXRvcnk1NDkwNjc0Mg==,the-knights-who-say-ni,CLA enforcement bot for Python organization projects,https://api.github.com/repos/python/the-knights-who-say-ni,https://github.com/python/the-knights-who-say-ni
+58329029,MDEwOlJlcG9zaXRvcnk1ODMyOTAyOQ==,devinabox,Documentation and tools to help host a sprint on Python core development,https://api.github.com/repos/python/devinabox,https://github.com/python/devinabox
+60299360,MDEwOlJlcG9zaXRvcnk2MDI5OTM2MA==,pythontestdotnet,source of pythontest.net (resources used for Python test suite),https://api.github.com/repos/python/pythontestdotnet,https://github.com/python/pythontestdotnet
+61229691,MDEwOlJlcG9zaXRvcnk2MTIyOTY5MQ==,pythonineducation.org,The pythonineducation.org website,https://api.github.com/repos/python/pythonineducation.org,https://github.com/python/pythonineducation.org
+61442459,MDEwOlJlcG9zaXRvcnk2MTQ0MjQ1OQ==,tlsproxy,,https://api.github.com/repos/python/tlsproxy,https://github.com/python/tlsproxy
+63972479,MDEwOlJlcG9zaXRvcnk2Mzk3MjQ3OQ==,devguide,The Python developer's guide,https://api.github.com/repos/python/devguide,https://github.com/python/devguide
+65913794,MDEwOlJlcG9zaXRvcnk2NTkxMzc5NA==,overload-sig,"Discussion about discussion overload, see https://mail.python.org/mm3/mailman3/lists/overload-sig@python.org/",https://api.github.com/repos/python/overload-sig,https://github.com/python/overload-sig
+65949828,MDEwOlJlcG9zaXRvcnk2NTk0OTgyOA==,pyperformance,Python Performance Benchmark Suite,https://api.github.com/repos/python/pyperformance,https://github.com/python/pyperformance
+67442350,MDEwOlJlcG9zaXRvcnk2NzQ0MjM1MA==,release-tools,Scripts for making (C)Python releases,https://api.github.com/repos/python/release-tools,https://github.com/python/release-tools
+76080865,MDEwOlJlcG9zaXRvcnk3NjA4MDg2NQ==,core-workflow,Issue tracker for CPython's workflow,https://api.github.com/repos/python/core-workflow,https://github.com/python/core-workflow
+80488055,MDEwOlJlcG9zaXRvcnk4MDQ4ODA1NQ==,buildmaster-config,Configuration for buildbot.python.org,https://api.github.com/repos/python/buildmaster-config,https://github.com/python/buildmaster-config
+81598961,MDEwOlJlcG9zaXRvcnk4MTU5ODk2MQ==,cpython,The Python programming language,https://api.github.com/repos/python/cpython,https://github.com/python/cpython
+83239542,MDEwOlJlcG9zaXRvcnk4MzIzOTU0Mg==,docker-bpo,Docker image for bugs.python.org,https://api.github.com/repos/python/docker-bpo,https://github.com/python/docker-bpo
+87574304,MDEwOlJlcG9zaXRvcnk4NzU3NDMwNA==,bedevere,A bot to help identify missing information for CPython pull requests,https://api.github.com/repos/python/bedevere,https://github.com/python/bedevere
+92079817,MDEwOlJlcG9zaXRvcnk5MjA3OTgxNw==,cpython-source-deps,Source for packages that the cpython build process depends on,https://api.github.com/repos/python/cpython-source-deps,https://github.com/python/cpython-source-deps
+92080048,MDEwOlJlcG9zaXRvcnk5MjA4MDA0OA==,cpython-bin-deps,Binaries that the cpython build process depends on,https://api.github.com/repos/python/cpython-bin-deps,https://github.com/python/cpython-bin-deps
+92097535,MDEwOlJlcG9zaXRvcnk5MjA5NzUzNQ==,python-docs-fr,Mirroir de https://git.afpy.org/AFPy/python-docs-fr,https://api.github.com/repos/python/python-docs-fr,https://github.com/python/python-docs-fr
+93341818,MDEwOlJlcG9zaXRvcnk5MzM0MTgxOA==,python-docs-theme,Sphinx theme for Python documentation,https://api.github.com/repos/python/python-docs-theme,https://github.com/python/python-docs-theme
+94006355,MDEwOlJlcG9zaXRvcnk5NDAwNjM1NQ==,python-docs-hu,Hungarian Translation of the Python Documentation,https://api.github.com/repos/python/python-docs-hu,https://github.com/python/python-docs-hu
+94006436,MDEwOlJlcG9zaXRvcnk5NDAwNjQzNg==,python-docs-ja,Japanese Translation of the Python Documentation,https://api.github.com/repos/python/python-docs-ja,https://github.com/python/python-docs-ja
+94006508,MDEwOlJlcG9zaXRvcnk5NDAwNjUwOA==,python-docs-bn-in,Bengali Translation of the Python Documentation,https://api.github.com/repos/python/python-docs-bn-in,https://github.com/python/python-docs-bn-in
+95158375,MDEwOlJlcG9zaXRvcnk5NTE1ODM3NQ==,python-docs-pt-br,Brazilian Portuguese translation of the Python Documentation,https://api.github.com/repos/python/python-docs-pt-br,https://github.com/python/python-docs-pt-br
+95175803,MDEwOlJlcG9zaXRvcnk5NTE3NTgwMw==,psf-infra-meta,Meta-repository for PSF backed or managed systems. Created mainly for the issue tracker :),https://api.github.com/repos/python/psf-infra-meta,https://github.com/python/psf-infra-meta
+99449805,MDEwOlJlcG9zaXRvcnk5OTQ0OTgwNQ==,consul-operator,A kubernetes operator for consul,https://api.github.com/repos/python/consul-operator,https://github.com/python/consul-operator
+100368452,MDEwOlJlcG9zaXRvcnkxMDAzNjg0NTI=,redistributor-guide,Guidance & recommendations for anyone publishing their own binary builds of CPython,https://api.github.com/repos/python/redistributor-guide,https://github.com/python/redistributor-guide
+100623862,MDEwOlJlcG9zaXRvcnkxMDA2MjM4NjI=,psf-community-resources,Short guides to PSF-related resources,https://api.github.com/repos/python/psf-community-resources,https://github.com/python/psf-community-resources
+102508556,MDEwOlJlcG9zaXRvcnkxMDI1MDg1NTY=,miss-islington,🐍🍒⛏🤖 - A bot for backporting and merging CPython pull requests,https://api.github.com/repos/python/miss-islington,https://github.com/python/miss-islington
+114343554,MDEwOlJlcG9zaXRvcnkxMTQzNDM1NTQ=,bpo-builder,bugs.python.org builder image & other deployment artifacts,https://api.github.com/repos/python/bpo-builder,https://github.com/python/bpo-builder
+117242222,MDEwOlJlcG9zaXRvcnkxMTcyNDIyMjI=,python-docs-ko,Korean translation of the Python documentation,https://api.github.com/repos/python/python-docs-ko,https://github.com/python/python-docs-ko
+127166423,MDEwOlJlcG9zaXRvcnkxMjcxNjY0MjM=,python-dev-survey,Place for gathering feedback from the public on the Python Developers Survey,https://api.github.com/repos/python/python-dev-survey,https://github.com/python/python-dev-survey
+137490374,MDEwOlJlcG9zaXRvcnkxMzc0OTAzNzQ=,bugs.python.org,Meta-issue tracker for bugs.python.org,https://api.github.com/repos/python/bugs.python.org,https://github.com/python/bugs.python.org
+138458545,MDEwOlJlcG9zaXRvcnkxMzg0NTg1NDU=,python-docs-zh-tw,Traditional Chinese (zh-tw) translation of the Python Documentation,https://api.github.com/repos/python/python-docs-zh-tw,https://github.com/python/python-docs-zh-tw
+148399527,MDEwOlJlcG9zaXRvcnkxNDgzOTk1Mjc=,blurb_it,`blurb add` over the internet,https://api.github.com/repos/python/blurb_it,https://github.com/python/blurb_it
+154145163,MDEwOlJlcG9zaXRvcnkxNTQxNDUxNjM=,python-docs-zh-cn,Simplified Chinese translation of the Python documentation,https://api.github.com/repos/python/python-docs-zh-cn,https://github.com/python/python-docs-zh-cn
+165752308,MDEwOlJlcG9zaXRvcnkxNjU3NTIzMDg=,mypy_extensions,Extensions for mypy,https://api.github.com/repos/python/mypy_extensions,https://github.com/python/mypy_extensions
+170376737,MDEwOlJlcG9zaXRvcnkxNzAzNzY3Mzc=,steering-council,Communications from the Steering Council,https://api.github.com/repos/python/steering-council,https://github.com/python/steering-council
+172050043,MDEwOlJlcG9zaXRvcnkxNzIwNTAwNDM=,codespeed,A fork of Codespeed that includes the instances run at https://speed.python.org/ and https://speed.pypy.org,https://api.github.com/repos/python/codespeed,https://github.com/python/codespeed
+182553592,MDEwOlJlcG9zaXRvcnkxODI1NTM1OTI=,python-docs-it,Italian translation of the Python documentation.,https://api.github.com/repos/python/python-docs-it,https://github.com/python/python-docs-it
+185224402,MDEwOlJlcG9zaXRvcnkxODUyMjQ0MDI=,python-docs-es,Spanish translation of the Python documentation.,https://api.github.com/repos/python/python-docs-es,https://github.com/python/python-docs-es
+189480743,MDEwOlJlcG9zaXRvcnkxODk0ODA3NDM=,cherry-picker,🐍🍒⛏ Utility script for backporting/cherry-picking CPython changes from master into one of the maintenance branches.,https://api.github.com/repos/python/cherry-picker,https://github.com/python/cherry-picker
+189506228,MDEwOlJlcG9zaXRvcnkxODk1MDYyMjg=,.github,Organization-wide GitHub settings,https://api.github.com/repos/python/.github,https://github.com/python/.github
+214049428,MDEwOlJlcG9zaXRvcnkyMTQwNDk0Mjg=,python-docs-id,Terjemahan Bahasa Indonesia untuk Dokumentasi Python,https://api.github.com/repos/python/python-docs-id,https://github.com/python/python-docs-id
+227235970,MDEwOlJlcG9zaXRvcnkyMjcyMzU5NzA=,python-docs-pl,Polskie tłumaczenie dokumentacji Pythona,https://api.github.com/repos/python/python-docs-pl,https://github.com/python/python-docs-pl
+228462148,MDEwOlJlcG9zaXRvcnkyMjg0NjIxNDg=,exceptiongroups,An early draft of a PEP around Exception Groups in Python,https://api.github.com/repos/python/exceptiongroups,https://github.com/python/exceptiongroups
+237821775,MDEwOlJlcG9zaXRvcnkyMzc4MjE3NzU=,hugs.python.org,,https://api.github.com/repos/python/hugs.python.org,https://github.com/python/hugs.python.org
+242158882,MDEwOlJlcG9zaXRvcnkyNDIxNTg4ODI=,tzdata,Python package wrapping the IANA time zone database,https://api.github.com/repos/python/tzdata,https://github.com/python/tzdata
+269418584,MDEwOlJlcG9zaXRvcnkyNjk0MTg1ODQ=,pythoncapi-compat,  The pythoncapi-compat project can be used to write a C extension supporting a wide range of Python versions with a single code base.,https://api.github.com/repos/python/pythoncapi-compat,https://github.com/python/pythoncapi-compat
+285913947,MDEwOlJlcG9zaXRvcnkyODU5MTM5NDc=,core-sprint,Repo for Virtual Core Dev Sprint 2020,https://api.github.com/repos/python/core-sprint,https://github.com/python/core-sprint
+306147182,MDEwOlJlcG9zaXRvcnkzMDYxNDcxODI=,importlib_resources,Backport of the importlib.resources module,https://api.github.com/repos/python/importlib_resources,https://github.com/python/importlib_resources
+306448340,MDEwOlJlcG9zaXRvcnkzMDY0NDgzNDA=,importlib_metadata,Library to access metadata for Python packages,https://api.github.com/repos/python/importlib_metadata,https://github.com/python/importlib_metadata
+309193997,MDEwOlJlcG9zaXRvcnkzMDkxOTM5OTc=,pootle-python-org-backup,,https://api.github.com/repos/python/pootle-python-org-backup,https://github.com/python/pootle-python-org-backup
+329680286,MDEwOlJlcG9zaXRvcnkzMjk2ODAyODY=,language-summit,Resources for the annual Python Language Summit,https://api.github.com/repos/python/language-summit,https://github.com/python/language-summit
+358684955,MDEwOlJlcG9zaXRvcnkzNTg2ODQ5NTU=,docs-community,Community management for documentation contributors and the Docs Workgroup,https://api.github.com/repos/python/docs-community,https://github.com/python/docs-community
+389008456,MDEwOlJlcG9zaXRvcnkzODkwMDg0NTY=,discord-bot,Discord Bot for Core Devs Discord server,https://api.github.com/repos/python/discord-bot,https://github.com/python/discord-bot
+439623558,R_kgDOGjQfhg,python-docs-tr,Turkish Translation of the Python Documentation,https://api.github.com/repos/python/python-docs-tr,https://github.com/python/python-docs-tr
+494077289,R_kgDOHXMFaQ,typing_extensions,Backported and experimental type hints for Python,https://api.github.com/repos/python/typing_extensions,https://github.com/python/typing_extensions
+504323168,R_kgDOHg9cYA,python-docs-uk,Ukrainian translation of the Python Documentation,https://api.github.com/repos/python/python-docs-uk,https://github.com/python/python-docs-uk
+656847333,R_kgDOJyax5Q,bench_runner,Code for running pyperformance benchmarks on Github Action runners,https://api.github.com/repos/python/bench_runner,https://github.com/python/bench_runner
+724378571,R_kgDOKy0jyw,typing-council,Decisions by the Python Typing Council,https://api.github.com/repos/python/typing-council,https://github.com/python/typing-council
+735568182,R_kgDOK9fhNg,python-docs-ru,Russian Translation of the Python Docs,https://api.github.com/repos/python/python-docs-ru,https://github.com/python/python-docs-ru
+740726840,R_kgDOLCaYOA,editorial-board,Communications of the Python Documentation Editorial Board,https://api.github.com/repos/python/editorial-board,https://github.com/python/editorial-board
+772031619,R_kgDOLgREgw,python-docs-el,Greek Translation of the Python Documentation,https://api.github.com/repos/python/python-docs-el,https://github.com/python/python-docs-el
+775007678,R_kgDOLjGtvg,blurb,Command-line tool to manage CPython Misc/NEWS.d entries,https://api.github.com/repos/python/blurb,https://github.com/python/blurb
+819981950,R_kgDOMN_ufg,webhook-mailer,GitHub Webhooks -> Email,https://api.github.com/repos/python/webhook-mailer,https://github.com/python/webhook-mailer
+821105577,R_kgDOMPETqQ,psrt-ghsa-bot,Bot which adds the PSRT GitHub team and CVE IDs to GitHub Security Advisories,https://api.github.com/repos/python/psrt-ghsa-bot,https://github.com/python/psrt-ghsa-bot
+861901369,R_kgDOM1-SOQ,cpython-devcontainers,Repository for devcontainers of CPython,https://api.github.com/repos/python/cpython-devcontainers,https://github.com/python/cpython-devcontainers
+930032802,R_kgDON28sog,python-docs-fa,Farsi (Persian) translation of the official Python documentation,https://api.github.com/repos/python/python-docs-fa,https://github.com/python/python-docs-fa
+942644792,R_kgDOOC-eOA,python-docs-ro,O traducere în românește a documentației Python.,https://api.github.com/repos/python/python-docs-ro,https://github.com/python/python-docs-ro
+974364212,R_kgDOOhOeNA,pymanager,The Python Install Manager (for Windows),https://api.github.com/repos/python/pymanager,https://github.com/python/pymanager
+1006259285,R_kgDOO_pMVQ,memory.python.org,A memory benchmarking and analysis tool for CPython development,https://api.github.com/repos/python/memory.python.org,https://github.com/python/memory.python.org
+1037538655,R_kgDOPdeVXw,python-docs-sv,Sweedish Translation of the Python Documentation,https://api.github.com/repos/python/python-docs-sv,https://github.com/python/python-docs-sv
+1075604713,R_kgDOQBxs6Q,prebuilt-cpython,Repository for discussing/planning prebuilt binaries of CPython,https://api.github.com/repos/python/prebuilt-cpython,https://github.com/python/prebuilt-cpython
+1098149642,R_kgDOQXRvCg,library-fuzzers,"Fuzzer definitions, seed corpora and dictionaries to fuzz-test the stdlib",https://api.github.com/repos/python/library-fuzzers,https://github.com/python/library-fuzzers
+1156848641,R_kgDORPQcAQ,python-insider-blog,,https://api.github.com/repos/python/python-insider-blog,https://github.com/python/python-insider-blog
+1266055386,R_kgDOS3Z42g,python-docs-pa,Punjabi (India) translation of the Python Documentation.,https://api.github.com/repos/python/python-docs-pa,https://github.com/python/python-docs-pa
+1361702516,R_kgDOUSnudA,python-docs-de,German translation of the Python Documentation,https://api.github.com/repos/python/python-docs-de,https://github.com/python/python-docs-de
+1367449019,R_kgDOUYGduw,turtle-translations,Translations of the docstrings of Python's 'turtle' module.,https://api.github.com/repos/python/turtle-translations,https://github.com/python/turtle-translations
+1376359880,R_kgDOUgmVyA,packaging-council,Public Records from the Python Packaging Council,https://api.github.com/repos/python/packaging-council,https://github.com/python/packaging-council
